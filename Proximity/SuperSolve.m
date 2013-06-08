@@ -1,0 +1,15 @@
+function [X,U]=SuperSolve(energy,Initial,gap,x_S,beta)
+% a_S=1;
+% epsilon_S=1;
+% x_S=beta*control;
+gx=linspace(x_S,0,1000);
+gap_vector=SuperParabolic(gap,gx,x_S);
+% gap_vector=SuperGap(gap,gx,beta);
+%gx=gx-x_S;%make for ode;
+Xspan=[x_S 0];
+% Initial=[1 1];
+%beta=beta*gap(1);
+options = odeset('RelTol',1e-6,'AbsTol',[1e-8 1e-8]);
+[X,U]=ode45(@(x,u) BdG(energy,x,u,gx,gap_vector,beta),Xspan,Initial,options);
+%X=X+x_S;
+%U=interp1(X,U,gx);

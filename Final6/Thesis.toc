@@ -1,0 +1,29 @@
+\contentsline {chapter}{Abstract}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{ii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.4}
+\contentsline {chapter}{\numberline {2}Tunnelling Spectroscopy of $D$-Wave Superconductors}{3}{chapter.5}
+\contentsline {section}{\numberline {2.1}Properties of Energy Gaps}{3}{section.6}
+\contentsline {subsection}{\numberline {2.1.1}Pair Potential of Anisotropic Superconductors}{4}{subsection.9}
+\contentsline {subsection}{\numberline {2.1.2}Energy Gap Terms Selected for the Calculation}{5}{subsection.17}
+\contentsline {section}{\numberline {2.2}$D$-Wave Tunnelling Spectroscopy of Superconductors}{5}{section.21}
+\contentsline {subsection}{\numberline {2.2.1}I-V Curve Function For N-S Boundary}{6}{subsection.22}
+\contentsline {subsection}{\numberline {2.2.2}Properties of Tunnelling Spectroscopy Kernel $\sigma _S$}{6}{subsection.27}
+\contentsline {subsection}{\numberline {2.2.3}$ab$-Tunnelling Spectroscopy}{8}{subsection.36}
+\contentsline {subsection}{\numberline {2.2.4}Differential Conductance with Different Temperatures and Fixed Energy Gap Amplitude}{10}{subsection.44}
+\contentsline {subsection}{\numberline {2.2.5}Differential Conductance with Different Pair Potential Amplitudes with Fixed Temperature}{11}{subsection.47}
+\contentsline {subsection}{\numberline {2.2.6}$c$-Tunnelling Spectroscopy and Fitting the Experimental Data}{13}{subsection.49}
+\contentsline {chapter}{\numberline {3}Tunnelling Spectroscopy with Proximity Effect}{17}{chapter.57}
+\contentsline {section}{\numberline {3.1}Bogoliubov Equations}{17}{section.58}
+\contentsline {subsection}{\numberline {3.1.1}Simplification for the Bogoliubov Equations}{18}{subsection.59}
+\contentsline {subsection}{\numberline {3.1.2}Solving the Bogoliubov Equations}{19}{subsection.69}
+\contentsline {section}{\numberline {3.2}Properties of Tunnelling Spectroscopy Kernel with Proximity Effect at Normal Incident}{22}{section.84}
+\contentsline {subsection}{\numberline {3.2.1}The Shapes of Reduced and Induced Pair Potential}{22}{subsection.85}
+\contentsline {subsection}{\numberline {3.2.2}Specific Cases}{23}{subsection.88}
+\contentsline {subsection}{\numberline {3.2.3}$s$-wave Proximity Effect at Normal Incident with Various Parameters}{23}{subsection.91}
+\contentsline {section}{\numberline {3.3}An In Progress Approach to the $d$-wave Tunnelling Spectroscopy with Proximity Effect}{26}{section.98}
+\contentsline {chapter}{\numberline {4}Future Work}{33}{chapter.115}
+\contentsline {chapter}{\numberline {5}Additional Projects}{34}{chapter.116}
+\contentsline {section}{\numberline {5.1}Control System for Raman Stage and Fresnel Rhomb}{34}{section.117}
+\vspace {2em}
